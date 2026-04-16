@@ -6,8 +6,9 @@ The system should function as a practical mobile workstation for engineering and
 
 ## Core Requirements
 1. Portable form factor
-2. Support Linux-based OS for development, diagnostics, and technical tooling
+2. Support for a Linux-based operating system
 3. Integrated display
-4. Integrated keyboard
+4. Integrated keyboard using mechanical key switches
 5. Portable battery-powered operation
-6. Support serial communication for device console access and debugging
+6. Support for serial communication for device console access and debugging
+7. Sufficient thermal management for sustained operation
